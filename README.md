@@ -1,6 +1,6 @@
 # Hi, I'm Peter Macharia 👋
 
-**Computer Science student at Chuka University · IBM-certified Data Scientist · Software Developer**
+**Computer Science graduate · IBM-certified Data Scientist · Software Developer · Founder of [Tech254](https://tech254.tech)**
 
 I build practical software across web, mobile, data, cybersecurity, and community-focused platforms. My projects include production-oriented applications, academic systems, experiments, and creative builds.
 
@@ -72,4 +72,6 @@ I’m focused on creating useful, human-centered products at the intersection of
 
 ## Connect
 
+- Portfolio: [Petermacharia.tech](https://Petermacharia.tech)
+- Company: [Tech254](https://tech254.tech)
 - GitHub: [@Peterlevis3327](https://github.com/Peterlevis3327)
